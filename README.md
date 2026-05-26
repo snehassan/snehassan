@@ -1,13 +1,12 @@
-# Hey, I'm Sneha 👋
+# Hey, 
 
-**Fullstack Engineer · Startup Founder · CMU MS '25**
+**I am a : Fullstack Engineer · Startup Founder · CMU MS '25**
 
 I build systems that ship to real users- from IoT telemetry pipelines serving 500K+ users to LLM-powered tutoring tools to VR physiotherapy platforms.
 
 ### What I'm up to
-- 🔬 **Graduate Researcher at Carnegie Mellon** - Building specialized LLMs for Cryo-Electron Tomography using PyTorch and transfer learning
-- 🚀 **Founder of [RecoVR](https://github.com/snehassan/RecoVR)** - VR physiotherapy platform incubated at CMU. 20-patient pilot, 40% improvement in fitness outcomes
-- 🎓 **CMU MS in Engineering & Technology Innovation Management** (GPA: 3.77/4.0)
+-  **Graduate Researcher at Carnegie Mellon** - Building specialized LLMs for Cryo-Electron Tomography using PyTorch and transfer learning
+-  **Founder of [RecoVR](https://github.com/snehassan/RecoVR)** - VR physiotherapy platform incubated at CMU. 20-patient pilot, 40% improvement in fitness outcomes
 
 ### Previously
 - **Software Developer at Ather Energy** - Shipped fullstack products (Spring Boot + React Native) serving 50K+ DAU, built real-time IoT telemetry pipelines for 200+ fleet vehicles, trained and deployed an ML pothole detection model (92% accuracy)
@@ -25,5 +24,5 @@ I build systems that ship to real users- from IoT telemetry pipelines serving 50
 | [**Vending-Analytics**](https://github.com/snehassan/Vending-Analytics) | CV pipeline detecting empty vending slots at 94% accuracy for Sheetz | Python, OpenCV, TensorFlow, React |
 
 ### Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sneha--hassan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sneha-hassan)
-[![Email](https://img.shields.io/badge/Email-snehahassan9970%40gmail.com-red?style=flat&logo=gmail)](mailto:snehahassan9970@gmail.com)
+[![LinkedIn]](https://www.linkedin.com/in/sneha-hassan)
+[![Email]](mailto:snehahassan9970@gmail.com)
