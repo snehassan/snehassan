@@ -19,7 +19,7 @@ I build systems that ship to real users- from IoT telemetry pipelines serving 50
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**Daily Scheduling with Whoop****](https://github.com/snehassan/RecoVR) | Connect your Whoop to auto-detect recovery, wake time, and day mode. Or skip to use the schedule manually. | Typescript |
+| [**Daily Scheduling with Whoop****](https://github.com/snehassan/daily-os) | Connect your Whoop to auto-detect recovery, wake time, and day mode. Or skip to use the schedule manually. | Typescript |
 | [**RecoVR**](https://github.com/snehassan/RecoVR) | VR physiotherapy platform with real-time positional tracking — incubated at CMU | Unity, C, C# |
 | [**Socratic-LLM**](https://github.com/snehassan/Socratic-LLM) | LLM tutoring system with custom guardrails that teaches instead of giving answers | Python, Flask, React, PyTorch |
 | [**Vending-Analytics**](https://github.com/snehassan/Vending-Analytics) | CV pipeline detecting empty vending slots at 94% accuracy for Sheetz | Python, OpenCV, TensorFlow, React |
