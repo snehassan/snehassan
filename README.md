@@ -7,6 +7,7 @@ I build systems that ship to real users- from IoT telemetry pipelines serving 50
 ### What I'm up to
 -  **Graduate Researcher at Carnegie Mellon** - Building specialized LLMs for Cryo-Electron Tomography using PyTorch and transfer learning
 -  **Founder of [RecoVR](https://github.com/snehassan/RecoVR)** - VR physiotherapy platform incubated at CMU. 20-patient pilot, 40% improvement in fitness outcomes
+-  **Latest project** - [Daily Scheduling with Whoop - Live App](https://daily-os-rouge-psi.vercel.app/)
 
 ### Previously
 - **Software Developer at Ather Energy** - Shipped fullstack products (Spring Boot + React Native) serving 50K+ DAU, built real-time IoT telemetry pipelines for 200+ fleet vehicles, trained and deployed an ML pothole detection model (92% accuracy)
