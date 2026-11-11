@@ -2,8 +2,8 @@
 
 **I am a : Fullstack Engineer · Startup Founder · CMU MS '25**
 
-I build systems that ship to real users- from IoT telemetry pipelines serving 500K+ users to LLM-powered tutoring tools to VR physiotherapy platforms. I also write when I'm in the mood, check out my substack:
--  **[Substack](https://substack.com/home/post/p-222683751)**
+I build systems that ship to real users- from IoT telemetry pipelines serving 500K+ users to LLM-powered tutoring tools to VR physiotherapy platforms. I also write when I'm in the mood, check out my Medium:
+-  **[Medium]((https://medium.com/@snehassan123))**
 
 ### What I'm up to
 -  **Graduate Researcher at Carnegie Mellon** - Building specialized LLMs for Cryo-Electron Tomography using PyTorch and transfer learning
