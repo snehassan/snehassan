@@ -6,6 +6,7 @@ I build systems that ship to real users- from IoT telemetry pipelines serving 50
 -  **[Medium](https://medium.com/@snehassan123)**
 
 ### What I'm up to
+-  Currently researching on self improving agents
 -  **Graduate Researcher at Carnegie Mellon** - Building specialized LLMs for Cryo-Electron Tomography using PyTorch and transfer learning
 -  **Founder of [RecoVR](https://github.com/snehassan/RecoVR)** - VR physiotherapy platform incubated at CMU. 20-patient pilot, 40% improvement in fitness outcomes
 -  **Latest project** - [Daily Scheduling with Whoop - Live App](https://daily-os-rouge-psi.vercel.app/)
